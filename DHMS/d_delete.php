@@ -1,0 +1,1 @@
+<center><h1 style="margin-top: 100px; color: red;font-size: 80px; margin-bottom: 185px;">Deleted Succesfully........!!</h1></center>
